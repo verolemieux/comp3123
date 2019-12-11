@@ -3,7 +3,7 @@
 ---
 
 
-Week # | Repo Link 
+Lab # | Link 
 --- | ---
 1 | N/A
 2 | N/A
